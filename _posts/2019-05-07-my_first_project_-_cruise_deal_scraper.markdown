@@ -2,7 +2,7 @@
 layout: post
 title:      "My First Project - Cruise Deal Scraper"
 date:       2019-05-07 18:07:09 -0400
-permalink:  first_project
+permalink:  my_first_project_-_cruise_deal_scraper
 ---
 
 
