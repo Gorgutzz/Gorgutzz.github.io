@@ -1,11 +1,11 @@
 # Site settings
 author: Leo Kalshteyn
-title: 
+title: Leo's Blog
 header-img: img/home-bg.png
 email: leo.kalshteyn@gmail.com
 copyright_name: Leo Kalshteyn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Pursuing my passion for a career in Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Gorgutzz
