@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "First Project"
-date:       2019-05-07 22:07:08 +0000
+title:      "My First Project - Cruise Deal Scraper"
+date:       2019-05-07 18:07:09 -0400
 permalink:  first_project
 ---
 
