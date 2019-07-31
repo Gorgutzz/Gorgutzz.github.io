@@ -14,10 +14,9 @@ Example of the Helpers being used: ![](https://i.imgur.com/8On9k06.jpg)
 
 The most time consuming part of the project was the structing of the erbs and the stylesheet. While html and css are supposedly easier to code, it took me a while to sort it out. Another thing which took a while to figure out was what kind of picture to use for the site's background and the colors of the text. I decided to go for a mostly brownish and beige mix as it simulates the colors of a leather bound tome which would fit the overall theme. 
 
-Here is how the menu of the site looks: ![](https://i.imgur.com/fYjlI0P.jpg)
+Here is how the menu of the site looks: ![](https://i.imgur.com/40I3Qka.png)
 
 I was quite satisfied with the look of the site with these colors. This was an interesting project to do and I got to make a working site for the first time with a working login systme no less.
 
-- Leo
-- 
+
 
