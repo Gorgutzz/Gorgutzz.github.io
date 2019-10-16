@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Thoughts on Javascript"
-date:       2019-10-16 03:28:39 +0000
+date:       2019-10-15 23:28:40 -0400
 permalink:  thoughts_on_javascript
 ---
 
@@ -14,6 +14,5 @@ Additionally, most JS is written with  a server-side environment in mind such as
 
 Conclusion -
 
-Learning all these very imporatant JS fundamentals and redoing alot of the section was  very beneficial to me as I was 2/3 done when the v8 of the cirriculum came out. I’m excited now to start my JS and Rails API project and am hopeful that I could play around with some of the more advanced concepts I mentioned as well as the backend and frontend in a creative way
-
+Learning all these very imporatant JS fundamentals and redoing alot of the section was  very beneficial to me as I was 2/3 done when the v8 of the cirriculum came out. I’m excited now to start my JS and Rails API project and am hopeful that I could play around with some of the more advanced concepts I mentioned and produce something creative.
 
