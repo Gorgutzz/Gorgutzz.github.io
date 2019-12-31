@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Hoisting and Scope"
-date:       2019-12-31 03:25:03 +0000
+date:       2019-12-30 22:25:04 -0500
 permalink:  javascript_hoisting_and_scope
 ---
 
@@ -33,7 +33,7 @@ function someFunction() {
 
 ```
 
-ES6 introduced two keywords for declaring variables, them being 'let' and 'const'. 'let' allows you to declare variables that are limited to a scope of a block statement, unlike var, which defines a variable globally, or locally to an entire function regardless of block scope. Variables declared by 'let' have their scope in the block for which they are defined, as well as in any contained sub-blocks. 'const' are similar to let variables, except that their values cannot be changed. It is similar to 'let' in that it’s block scoped but unlike 'let' must be initialized with a value. It is not possible to hoist 'let' or 'const' variables as well. Generally, it is recomended to use 'const' for everything unless something can't have a set value, using 'let' for the latter cases. 
+ES6 introduced two keywords for declaring variables, them being 'let' and 'const'. 'let' allows you to declare variables that are limited to a scope of a block statement, unlike var, which defines a variable globally, or locally to an entire function regardless of block scope. Variables declared by 'let' have their scope in the block for which they are defined, as well as in any contained sub-blocks. 'const' are similar to let variables, except that their values cannot be changed. It is similar to 'let' in that it’s block scoped but unlike 'let' must be initialized with a value. It is not possible for 'let' or 'const' variables to be hoisted either. Generally, it is recomended to use 'const' for everything unless something can't have a set value, using 'let' for the latter cases. 
 
 Example of let:
 
