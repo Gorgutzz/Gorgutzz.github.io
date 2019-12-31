@@ -25,10 +25,10 @@ Scope in Javascript is the accessibility of variables, with there being local an
 Example where x is global and y is local:
 
 ```
-var x = ''dog";
+var x = ''dog';
 
 function someFunction() {
-    var y = "cat";
+    var y = 'cat';
 }
 
 ```
